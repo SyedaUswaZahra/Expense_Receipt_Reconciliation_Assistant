@@ -1,0 +1,1 @@
+Receipt-id to review status mapping.
