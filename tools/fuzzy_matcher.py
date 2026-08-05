@@ -1,0 +1,1 @@
+float=-1.0, confidence_threshold=confidence_threshold, receipt_id=receipt.id, transaction_id=None, confidence=best_score, status=unmatched, vendor=tx.vendor, s=self.score(receipt.vendor, best_score=s, best_candidate=tx
