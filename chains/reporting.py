@@ -1,0 +1,1 @@
+llm=llm, matched_pairs=[], flags=[], category_totals=self.compute_category_totals(state, prompt=REPORT_PROMPT.invoke(, response=self.llm.invoke(prompt, totals={}, receipt=next(, id==, category=receipt.category
